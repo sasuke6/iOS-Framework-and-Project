@@ -89,7 +89,7 @@
 * [YYKit](https://github.com/ibireme/YYKit) YYKit是一组庞大、功能丰富的iOS组件，包含YYModel、YYWebImage等等 
 
 #### 音视频处理
-* [SoundCloudSwift](https://github.com/pepibumur/SoundCloudSwift) 号称音频处理的兵工厂，强大，满足任何需求。(Swfit)
+
 
 #### 聊天
 * [MessageDisplayKit](https://github.com/xhzengAIB/MessageDisplayKit) 一个类似微信App的IM应用，拥有发送文字、图片、语音、视频、地理位置消息，管理本地通信录、分享朋友圈、漂流交友、摇一摇和更多有趣的功能。
@@ -107,6 +107,7 @@
 #### 开源项目
 * [react-native-gitfeed](https://github.com/xiekw2010/react-native-gitfeed) React-Native开发成的Github客户端，值得学习
 * [Yep](https://github.com/CatchChat/Yep) 周大神的开源作品，赶快趴下来学习（Swift）
+* [SoundCloudSwift](https://github.com/pepibumur/SoundCloudSwift) 号称音频处理的兵工厂，强大，满足任何需求。(Swift)
 
 
 
