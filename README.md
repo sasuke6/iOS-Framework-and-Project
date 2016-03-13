@@ -60,7 +60,7 @@
 
 ##### UIScrollView
 * [LTInfiniteScrollView](https://github.com/ltebean/LTInfiniteScrollView) 基于UIScorllView的框架，动画效果酷炫
-* [ScrollviewParallax](https://github.com/BillCarsonFr/ScrollviewParallax) 顶部具有伸缩效果ScollView的封装库、
+* [ScrollviewParallax](https://github.com/BillCarsonFr/ScrollviewParallax) 顶部具有伸缩效果ScollView的封装库
 * [HYBLoopScrollView](https://github.com/CoderJackyHuang/HYBLoopScrollView) App中的广告轮播图组件
 
 ##### 侧滑
