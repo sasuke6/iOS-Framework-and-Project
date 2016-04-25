@@ -150,7 +150,7 @@
 * [CTPersistance](https://github.com/casatwy/CTPersistance) Model Layer层处理框架
 * [FastEasyMapping](https://github.com/Yalantis/FastEasyMapping) 快速转换Model库
 * [MJExtension](https://github.com/CoderMJLee/MJExtension) 非常强大的转换框架
-* [Mantle](https://github.com/Mantle/Mantle) GIthub出品的模型转换库
+* [Mantle](https://github.com/Mantle/Mantle) Github出品的模型转换库
 
 
 #### 动画
