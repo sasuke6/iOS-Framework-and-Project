@@ -76,6 +76,10 @@
 * [Masonry](https://github.com/SnapKit/Masonry) 最著名的AutoLayout库
 * [HandyAutoLayout](https://github.com/casatwy/HandyAutoLayout) 系统自身的AutoLayout的封装
 * [PureLayout](https://github.com/PureLayout/PureLayout) 另一个AutoLayout框架
+* [SnapKit](https://github.com/SnapKit/SnapKit) swift版本的Masonry，事实意义上的swift适配库。
+* [Cartography](https://github.com/robb/Cartography) Cartography 是用来声明 Swift 中的 Auto Layout，无需输入任何 stringly 就可设置自己 Auto Layout 的约束声明
+* [Neno.swift](https://github.com/mamaral/Neon) 功能强大的 UI 布局神器。
+* [EasyPeasy.swift](https://github.com/nakiostudio/EasyPeasy) 编程方式自动布局框架库。
 
 ##### UITableView
 * [CYLTableViewPlaceHolder](https://github.com/ChenYilong/CYLTableViewPlaceHolder) 一行代码完成“空TableView占位视图”管理
